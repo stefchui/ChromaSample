@@ -27,7 +27,7 @@ pip install -r .\requirements.txt
 ```bash
 python .\demo\ChromaDbServerDataPreparation.py
 ```
-Check after data preparation setup: Go to browser with url http://localhost:8000/api/v1/collections
+Check after data import: Go to browser with url http://localhost:8000/api/v1/collections
 ![NewDataCollections](https://github.com/stefchui/ChromaSample/blob/main/images/data%20insertion%20check.png?raw=true)
 ### Step 3: Running query in Client Mode
 ```bash
